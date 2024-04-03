@@ -1,4 +1,4 @@
-# barcode_flutter2
+# barcode_flutter
 
 A new Flutter project.
 
